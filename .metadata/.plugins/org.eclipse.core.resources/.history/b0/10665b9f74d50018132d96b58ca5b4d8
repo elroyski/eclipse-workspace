@@ -1,0 +1,30 @@
+
+public class Petla {
+
+	public static void main(String[] args) {
+		
+		
+	     int [] tab = new int [10];
+
+         int i = 0;
+
+         tab [i] = 10;
+
+         while (i < (tab.length))
+
+         {
+
+         System.out.println(tab [i]);
+
+         tab[i] = tab[i]+10;
+         
+         i++;
+
+         }
+
+         
+    
+		}
+	}
+
+
