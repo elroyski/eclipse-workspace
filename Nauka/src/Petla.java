@@ -12,7 +12,7 @@ public class Petla {
 		{ 
 		tab[i]= (i+1)*10;
 		
-		/* to nie dzia³a
+		/* to nie dziala
 		 * 
 		 * tab[i]= tab[i]+10;
 		 * 
