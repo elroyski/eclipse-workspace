@@ -9,23 +9,8 @@ public class Petla {
 		
 		while (i < tab.length)
 			
-		{ 
-		tab[i]= (i+1)*10;
-		
-		/* to nie dzia³a
-		 * 
-		 * tab[i]= tab[i]+10;
-		 * 
-		 * wynik:
-		 * 10
-		 * 10
-		 * 10
-		 * ...
-		 * 10
-		 * 
-		 * 
-		 */
-		
+		{
+		tab[i]= tab[i]+10;
 		System.out.println(tab[i]);
 		i++;
 			
